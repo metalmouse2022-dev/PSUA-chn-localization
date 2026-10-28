@@ -1,4 +1,4 @@
-# PSUA 汉化工程技术资料
+# PSUA 汉化工程技术资料/哔哩哔哩：metalmouse
 
 ![PS2《梦幻之星宇宙：伊尔米纳斯的野心》汉化版启动标题画面](assets/psua-title-screen.png)
 
