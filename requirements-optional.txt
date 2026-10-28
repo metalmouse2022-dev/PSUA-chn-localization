@@ -1,0 +1,8 @@
+# Observed versions on the project's Windows x64 / Python 3.12 environment.
+# Install only what the scripts you use require; this is not a lockfile.
+Pillow==13.0.0
+numpy==2.5.3
+pycdlib==1.22.0
+requests==2.34.2
+capstone==5.0.9
+pyelftools==0.33
