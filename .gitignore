@@ -28,6 +28,39 @@ docs/名词规范.md
 说明.txt
 【AI汉化】*.txt
 
+# Scripts withheld pending source, redistribution, or embedded-data review
+scripts/bf_tables.py
+scripts/blewfish.py
+scripts/build_patched.py
+scripts/check_font_cover.py
+scripts/check_log.py
+scripts/check_trans_glyphs.py
+scripts/cvm_extract.py
+scripts/cvm_rebuild.py
+scripts/decrypt_par3.py
+scripts/diff_replaced.py
+scripts/find_online_weapons.py
+scripts/find_password.py
+scripts/make_ga_tail.py
+scripts/make_unit_titles_cn.py
+scripts/nbl.py
+scripts/patch_apc_text.py
+scripts/patch_game_cheat.py
+scripts/patch_global_drops.py
+scripts/patch_item_expl.py
+scripts/patch_player_growth.py
+scripts/patch_text_quick.py
+scripts/patch_title_menu.py
+scripts/patch_unit_titles.py
+scripts/rofs_crypt.py
+scripts/scan_all_text.py
+scripts/supp_stats.py
+scripts/swizzle_ps2_4bit.py
+scripts/trans_export_supp.py
+scripts/trans_import.py
+scripts/translate_all_items.py
+scripts/validate_v5.py
+
 # Local files and caches
 __pycache__/
 *.py[cod]
